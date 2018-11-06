@@ -92,4 +92,4 @@ async def clear(ctx,amount=100):
 
 
 
-bot.run('NTA4Mjc4NDExNTIxNjg3NTYz.Dr-V9Q.PjGgfYvUFsQII2tIY95K3WzzyU4')
+bot.run(Insert Token Here)
